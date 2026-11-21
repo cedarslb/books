@@ -18,7 +18,7 @@ Edit the `<section id="latest-release">` block in `index.html`: replace the cove
 In `index.html`, copy one `<article class="book-card">` block inside `.book-grid`, put it first, and change the cover, title, category, description, formats, and links. Save the cover in `assets/images/` with a descriptive name (e.g. `title-of-book-cover.jpg`). Add a `Book` entry to the JSON-LD.
 
 ## Notes
-- Site address is set to https://cedarslb.github.io/books/ (canonical, Open Graph). Update if the address changes.
+- Site address is set to https://storiesofhope.xyz/ (canonical, Open Graph). Update if the address changes.
 - Prices are not shown on the page except $7.00 for *A Grateful Heart*; update if it changes.
 - Other-store links come from Books2Read (*Loving a Broken Country* eBook only).
 
